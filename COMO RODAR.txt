@@ -1,0 +1,7 @@
+1°: Configurar no arquivo application.properties (resources/db.migration) a senha do seu MySql (em spring.datasource.password).
+2°: Abrir o MySql workbench, conectar, digitar: create database vollmed_api; e executar.
+3°: Ir no main do projeto (ApiApplication) e rodar.
+4° Após inicializar, realizar o coverage dos testes.
+
+OBS: Senha padrão para o MySql que definimos é "batman" sem as aspas duplas.
+
